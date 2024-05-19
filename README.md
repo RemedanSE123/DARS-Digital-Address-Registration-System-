@@ -32,10 +32,12 @@ Open the application in your web browser.
 Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-![Screenshot 2024-05-19 074218](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/fbfa4647-db2d-4240-b3a1-6505f0f20105)
-![Screenshot 2024-05-19 074055](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/040e8ec7-94f9-4c4b-a674-9f5a0e6c133e)
 ![Screenshot 2024-05-19 073945](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/de0259f2-14fd-4d04-8d32-9680367abab4)
-![Screenshot 2024-05-19 074557](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/2dbed3ba-a25a-4dfb-b9b5-dc830652ee85)
-![Screenshot 2024-05-19 074448](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/3f040fd6-f97c-435b-8e7f-c47cefc939ad)
-![Screenshot 2024-05-19 074403](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/c4fedba3-ee00-4897-910c-a6a27249582d)
+![Screenshot 2024-05-19 074218](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/fbfa4647-db2d-4240-b3a1-6505f0f20105)
 ![Screenshot 2024-05-19 074320](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/ea0afa1d-7208-4e7b-968a-0c02aaa416ff)
+![Screenshot 2024-05-19 074403](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/c4fedba3-ee00-4897-910c-a6a27249582d)
+![Screenshot 2024-05-19 074448](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/3f040fd6-f97c-435b-8e7f-c47cefc939ad)
+![Screenshot 2024-05-19 074557](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/2dbed3ba-a25a-4dfb-b9b5-dc830652ee85)
+![Screenshot 2024-05-19 074055](https://github.com/RemedanSE123/DARS-Digital-Address-Registration-System-/assets/128710700/040e8ec7-94f9-4c4b-a674-9f5a0e6c133e)
+
+

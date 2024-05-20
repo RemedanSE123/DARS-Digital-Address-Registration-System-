@@ -70,7 +70,7 @@
         </ul>
       </div>
 
-      <div class="col-md-3 section">
+      <div class="col-md-3 section maino">
         <h5 class="section-title">Contact</h5>
         <div class="contact-info">
           <a href="tel:+251952000102"><i class="fas fa-phone contact-icon"></i> +251 968099166</a> <br>

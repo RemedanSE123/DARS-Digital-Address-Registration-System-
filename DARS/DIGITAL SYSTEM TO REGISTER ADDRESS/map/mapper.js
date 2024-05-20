@@ -1,8 +1,6 @@
 //
 // Source code for interactive map
-// @author: Yared W. Bekele
 //
-
 var margin = {
   top: 10,
   bottom: 10,
